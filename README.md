@@ -25,7 +25,7 @@ npm install
 
 
 Start the backend server:
-npm run start
+npm start
 
 The backend should now be running on http://localhost:3001
 
